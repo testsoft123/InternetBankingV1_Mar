@@ -1,0 +1,2 @@
+cd D:\02_Testing\02_Selenium\JavaSelenium_workspace\InternetBankingV1_Mar
+mvn clean install
